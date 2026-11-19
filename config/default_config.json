@@ -1,0 +1,37 @@
+{
+    "downloads_folder": "",
+    "organize_unknown_files": true,
+    "unknown_folder_name": "Other",
+    "create_categories": true,
+    "recursive": false,
+    "auto_organize": false,
+    "enable_notifications": true,
+    "minimize_to_tray": true,
+    "stability_delay_seconds": 3,
+    "categories": {
+        "Documents": [".pdf", ".doc", ".docx", ".docm", ".txt", ".rtf", ".odt", ".pages"],
+        "Spreadsheets": [".xls", ".xlsx", ".xlsm", ".csv", ".ods"],
+        "Presentations": [".ppt", ".pptx", ".pptm", ".odp"],
+        "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp", ".svg", ".ico", ".tiff"],
+        "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv", ".webm", ".m4v"],
+        "Audio": [".mp3", ".wav", ".flac", ".aac", ".m4a", ".ogg", ".wma"],
+        "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz"],
+        "Installers": [".exe", ".msi", ".msp"],
+        "Scripts": [".ps1", ".bat", ".cmd", ".py", ".js", ".ts", ".psm1", ".sh"],
+        "Web": [".html", ".htm", ".css", ".json", ".xml"],
+        "Torrents": [".torrent"],
+        "Disk Images": [".iso", ".img", ".vhd", ".vhdx"]
+    },
+    "ignored_extensions": [
+        ".lnk",
+        ".url",
+        ".tmp",
+        ".crdownload",
+        ".part",
+        ".download"
+    ],
+    "ignored_files": [
+        "desktop.ini",
+        "thumbs.db"
+    ]
+}
